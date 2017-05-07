@@ -1,1 +1,1 @@
-# BugBounty_Methodology
+# BugBounty Methodology
